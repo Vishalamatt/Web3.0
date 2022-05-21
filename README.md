@@ -6,6 +6,8 @@ The code first takes user details as input and displays them to the user to see 
 Followed by choosing the duration for loan amoung 3 options that the bank offer
 this is done through calling diff methods of the class User
 then the amount to be lend is asked ending with code giving you the details for repayment
+### Inshort 
+Code requires to fill basic details to get you the repay details
 
 ## Answers
 The loan system I used is centralised since the bank itself is making the decision related to every aspect of lending money
